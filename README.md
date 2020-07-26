@@ -1,3 +1,8 @@
+Please click this [LINK](https://coronatrack-e3be9.web.app/) to see the app
+
+#Folder Stucture
+![](/src/Capture.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

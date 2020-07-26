@@ -1,0 +1,53 @@
+.body {
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+}
+.active_cases {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
+.recovered_cases {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
+.death_cases {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
+.dropdown {
+  padding: 10px;
+  overflow: visible;
+  visibility: visible;
+}
+.googlemaps {
+  overflow: visible;
+  padding: 30px;
+  visibility: visible;
+  width: 100%;
+  height: 600px;
+}
+
+.infoCard {
+  overflow: visible;
+  padding: 10px;
+}
+.new_confirmed {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
+.new_death_cases {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
+
+.new_recovered_cases {
+  padding: 8px;
+  border: 1px solid black;
+  width: 250px;
+}
